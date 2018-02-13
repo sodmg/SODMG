@@ -12,13 +12,13 @@ function setVolume() {
 }
 
 var titleKeyframes = {
-    "keyframes": [ "Ostrołęka", "Dobrzyńskiego", "4/33"],
+    "keyframes": [ "SODMG", "GAMERS"],
     "currentKeyframe": 0,
     "interval": 700
 };
 
 var videos = [
-    [ "xd.mp4", 1.0, 1.25 ],
+    [ "xd.mp4", 1.0, 1.0 ],
 ];
 
 var lastVideo = localStorage.getItem("lastVideo");

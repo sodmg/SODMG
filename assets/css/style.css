@@ -44,8 +44,8 @@ body {
 }
 
 #gang > h1:after {
-    content: '$';
-    color: pink;
+    content: ' gamers';
+    color: red;
 }
 
 #gang a {
@@ -63,7 +63,7 @@ body {
 }
 
 #gang a:hover {
-    color: pink;
+    color: red;
 }
 
 #gang > p {
