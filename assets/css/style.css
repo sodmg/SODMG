@@ -44,7 +44,7 @@ body {
 }
 
 #gang > h1:after {
-    content: ' gamers';
+    content: 'MG';
     color: red;
 }
 

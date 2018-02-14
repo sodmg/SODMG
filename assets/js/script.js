@@ -18,7 +18,7 @@ var titleKeyframes = {
 };
 
 var videos = [
-    [ "xd.mp4", 1.0, 1.0 ],
+    [ "video.mp4", 0.5, 1.0],
 ];
 
 var lastVideo = localStorage.getItem("lastVideo");
